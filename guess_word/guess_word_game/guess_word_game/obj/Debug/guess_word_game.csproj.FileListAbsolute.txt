@@ -1,0 +1,10 @@
+D:\guess_word\guess_word_game\guess_word_game\bin\Debug\guess_word_game.exe.config
+D:\guess_word\guess_word_game\guess_word_game\bin\Debug\guess_word_game.exe
+D:\guess_word\guess_word_game\guess_word_game\bin\Debug\guess_word_game.pdb
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.csprojResolveAssemblyReference.cache
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.Form1.resources
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.Properties.Resources.resources
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.csproj.GenerateResource.Cache
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.csproj.CoreCompileInputs.cache
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.exe
+D:\guess_word\guess_word_game\guess_word_game\obj\Debug\guess_word_game.pdb
