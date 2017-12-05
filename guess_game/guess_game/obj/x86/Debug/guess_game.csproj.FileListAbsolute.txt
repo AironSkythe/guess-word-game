@@ -1,0 +1,7 @@
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\bin\Debug\guess_game.exe
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\bin\Debug\guess_game.pdb
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\obj\x86\Debug\guess_game.Properties.Resources.resources
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\obj\x86\Debug\guess_game.csproj.GenerateResource.Cache
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\obj\x86\Debug\guess_game.exe
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\obj\x86\Debug\guess_game.pdb
+C:\Users\Skythe\Desktop\решта\Візуал проекти\вгадай слово\слова\guess_game\guess_game\obj\x86\Debug\guess_game.csprojResolveAssemblyReference.cache
